@@ -1,0 +1,84 @@
+!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+
+        <title>DOGS</title>
+
+<center><head><font size="6" color="lightgreen"><b>Dogs</b></font></head></center>
+
+<br>
+
+<body>
+
+<center><font color="darkgreen"><img src="Dogs.jpg" alt="DOGS" width="800" height="300" border="20"></font></center>
+
+<h1><font size="5" color="darkblue">About Dogs</h1>
+
+<p1><font size="4" face="verdana" color="powderblue">Dogs <i>(Canuis lupus familiaris)</i> are domesticated mammals, not natural wild animals. They were origanlly bred from <b>wolves</b>. They have been bred by humans for a long time, and were <u>the first animals ever to be domesticated.</u></font></p1>
+
+<br>
+<br>
+
+<p2><font size="2" color="white">Today, some dogs are used as pets, others are used to help humans do their work. They are a porpular pet because they are usually playful, friendly, loyal and listen to humans. Thirty million dogs in the United States are registered as pets. Dogs eat both meat and vegetables, often mixed together and sold in stores as dog food. Dogs often have jobs, including police dogs, army dogs, assistance dogs, fire dogs, messenger dogs, hunting dogs, herding dogs, or rescue dogs.</font></p2>
+
+<br>
+<br>
+
+<p3><font size="2" color="white"> They are sometimes called "canines" from the Latin word for dog - canis. Sometimes people also use "dog" to describe other canids, such as wolves. A baby dog is called a pup or puppy. A dog is called a puppy until it is about one year old.</font></p3>
+
+<br>
+<br>
+
+<p4><font size="2" color="white">Dogs are sometimes referred to as "man's best friend" because they are kept as domestic pets and are usually loyal and like being around humans.</font></p4>
+
+<br>
+<br>
+
+<p5><font color="white" face="verdana" size="3"><b><i>You can find a missing dog on <a href="nestao.com" color="purple"><font color="purple">nestao.com</font></a></font></i></b></font></p5>
+
+<br>
+<br>
+
+<p6><font color="orange">This is how to spell <b><u><i>dog</i></u></b> in some other languages:</font></p6>
+
+<br>
+
+<ul>
+<font color="yellow">
+        <li>пас</li>
+        <li>犬</li>
+        <li>собака</li>
+        <li>σκυλί</li>
+        <li>สุนัข</li>
+</font>
+</ul>
+
+</body>
+
+<table border="1"  align="right" bgcolor="lightgreen">
+
+<tr>
+        <th>Dog breed</th>
+        <th>Number of registered dogs</th><center>
+</tr>
+
+<tr>
+        <td>Labrador Retriever</td>
+        <td>60,931</td><center>
+</tr>
+
+<tr>
+        <td>Chihuahua</td>
+        <td>42,244</td><center>
+</tr>
+
+<tr>
+         <td>German Shepherd</td>
+        <td>27,712</td></center>
+</tr>
+
+</table>
+
+<body bgcolor="grey"></body>
+
+</html>
